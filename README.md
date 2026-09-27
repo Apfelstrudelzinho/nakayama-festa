@@ -9,7 +9,7 @@ Version:     0.1 (09.2026)
 
 <div align="center">
 
-# 🏴‍☠️ Megathread Pirata
+# Megathread Digital
 
 [![Framework](https://img.shields.io/badge/VitePress-1.6.3-8338ec.svg?style=for-the-badge&logo=vitepress)](https://vitepress.dev/) [![Grupo](https://img.shields.io/badge/Le_Bureau-L.B.-ffcc00.svg?style=for-the-badge)](https://github.com/Apfelstrudelzinho)
 [![Project: Nakayama Festa](https://img.shields.io/badge/Project-Nakayama_Festa-e63946.svg?style=for-the-badge)](#-origem-do-codinome-nakayama-festa) [![Categorias](https://img.shields.io/badge/Categorias-12_Bibliotecas-00d2ff.svg?style=for-the-badge)](https://github.com/Apfelstrudelzinho/nakayama-festa)
@@ -106,7 +106,7 @@ Para executar a documentação em máquina local via VitePress com hot-reload at
 
 ```bash
 # 1. Clonar o repositório
-git clone [https://github.com/Apfelstrudelzinho/nakayama-festa.git](https://github.com/Apfelstrudelzinho/nakayama-festa.git)
+git clone https://github.com/Apfelstrudelzinho/nakayama-festa.git
 cd nakayama-festa
 
 # 2. Instalar dependências
@@ -116,7 +116,7 @@ npm install
 npm run docs:dev
 ```
 
-Abra seu navegador em `http://localhost:5173` para explorar a interface retro-cyberpunk do Nakayama Festa.
+Abra a URL indicada no seu terminal para explorar a megathread.
 
 Para compilar os arquivos estáticos de produção:
 ```bash
